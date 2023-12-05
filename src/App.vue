@@ -61,7 +61,7 @@ export default {
           <font-awesome-icon icon="fa-brands fa-whatsapp" />
         </a>
       </div>
-      <a class="flex items-center justify-center h-12 px-2 font-bold bg-white shadow-solid rounded-xl border-4 border-black hover:translate-y-[5px] hover:translate-x-[5px] hover:shadow-none duration-100" href="https://dandisubhani.one" target="_blank">
+      <a class="flex items-center justify-center h-12 px-2 font-bold bg-white shadow-solid rounded-xl border-4 border-black hover:translate-y-[5px] hover:translate-x-[5px] hover:shadow-none duration-100" href="https://dandie.one" target="_blank">
       Click Me! ⭐
     </a>
     </div>
