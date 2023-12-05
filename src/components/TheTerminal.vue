@@ -4,7 +4,7 @@ import { ref } from 'vue'
 export default {
   data() {
     return {
-      ps1: '[you@larei.is-a.dev ~]$&nbsp;',
+      ps1: '[@dandie.one ~]$&nbsp;',
       terminal: ref(null),
       input: ref(null),
       history: ref(null),
@@ -101,7 +101,7 @@ export default {
 
         if (file) {
           if (file == 'about_me.md') {
-            this.append_history(cmd, "it's emirhan!<br>emirhan (aka larei), 17 years-old. mathematics student, self-taught developer, open-source enthusiast. programming, music, math. *insert here some lorem ipsum*")
+            this.append_history(cmd, "i'm dandi!<br>, 18 years-old. informatics engineering student, bot developer, open-source enthusiast. programming, meme and social media enthusiast.")
           } else if (file == 'todo_list.md') {
             this.append_history(cmd, '- birth<br><br>- learn<br>- explore<br>- study<br>- university<br>- career<br>- work<br>- love<br>- die')
           } else {
