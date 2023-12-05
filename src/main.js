@@ -5,9 +5,9 @@ import App from './App.vue'
 
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
-import { faSpotify, faDiscord, faLinkedin, faReddit, faGithub, faMastodon } from '@fortawesome/free-brands-svg-icons'
+import { faWhatsapp, faFacebook, faLinkedin, faInstagram, faGithub, faMastodon } from '@fortawesome/free-brands-svg-icons'
 
-library.add(faSpotify, faDiscord, faLinkedin, faReddit, faGithub, faMastodon)
+library.add(faWhatsapp, faFacebook, faLinkedin, faInstagram, faGithub, faMastodon)
 
 createApp(App)
   .component('font-awesome-icon', FontAwesomeIcon)
