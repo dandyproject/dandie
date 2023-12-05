@@ -17,7 +17,7 @@ export default {
         I'm Dandi Subhani!
       </div>
       <div class="font-bold text-lg mb-2">
-        I'am 18 years-old. informatics engineering student, bot developer, open-source enthusiast. programming, meme and social media enthusiast.
+        18 years-old. informatics engineering student, bot developer, open-source enthusiast. programming, meme and social media enthusiast.
       </div>
     </TheWindow>
 
