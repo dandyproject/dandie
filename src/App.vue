@@ -14,7 +14,7 @@ export default {
   <main class="sm:pt-20 relative max-w-screen-md mx-auto p-5">
     <TheWindow class="mb-3" title="about_me.md" :decorations="3">
       <div class="font-black text-5xl content-center">
-        it's <span class="bg-[var(--color-quinary)]">Dandi Subhani!</span>
+        I'm Dandi Subhani!
       </div>
       <div class="font-bold text-lg mb-2">
         I'am 18 years-old. informatics engineering student, bot developer, open-source enthusiast. programming, meme and social media enthusiast.
