@@ -14,11 +14,10 @@ export default {
   <main class="sm:pt-20 relative max-w-screen-md mx-auto p-5">
     <TheWindow class="mb-3" title="about_me.md" :decorations="3">
       <div class="font-black text-5xl content-center">
-        it's <span class="bg-[var(--color-quinary)]">emirhan!</span>
+        it's <span class="bg-[var(--color-quinary)]">Dandi Subhani!</span>
       </div>
       <div class="font-bold text-lg mb-2">
-        emirhan (aka larei), 17 years-old. mathematics student, self-taught developer, open-source enthusiast. programming, music, math. <i>*insert here some lorem
-          ipsum*</i>
+        I'am 18 years-old. informatics engineering student, bot developer, open-source enthusiast. programming, meme and social media enthusiast.
       </div>
     </TheWindow>
 
@@ -46,24 +45,24 @@ export default {
 
     <div class="flex max-sm:flex-col justify-between items-center gap-3">
       <div class="flex flex-wrap justify-center text-2xl gap-2">
-        <a class="flex items-center justify-center w-12 h-12 text-2xl bg-[var(--color-secondary)] shadow-solid rounded-xl border-4 border-black hover:translate-y-[5px] hover:translate-x-[5px] hover:shadow-none duration-100" href="https://github.com/lareii" target="_blank">
+        <a class="flex items-center justify-center w-12 h-12 text-2xl bg-[var(--color-secondary)] shadow-solid rounded-xl border-4 border-black hover:translate-y-[5px] hover:translate-x-[5px] hover:shadow-none duration-100" href="https://github.com/dandyproject" target="_blank">
           <font-awesome-icon icon="fa-brands fa-github" />
         </a>
-        <a class="flex items-center justify-center w-12 h-12 text-2xl bg-[var(--color-tertiary)] shadow-solid rounded-xl border-4 border-black hover:translate-y-[5px] hover:translate-x-[5px] hover:shadow-none duration-100" href="https://www.linkedin.com/in/emirhanbb/" target="_blank">
+        <a class="flex items-center justify-center w-12 h-12 text-2xl bg-[var(--color-tertiary)] shadow-solid rounded-xl border-4 border-black hover:translate-y-[5px] hover:translate-x-[5px] hover:shadow-none duration-100" href="https://www.linkedin.com/in/dandisubhani/" target="_blank">
           <font-awesome-icon icon="fa-brands fa-linkedin" />
         </a>
-        <a class="flex items-center justify-center w-12 h-12 text-2xl bg-[var(--color-quinary)] shadow-solid rounded-xl border-4 border-black hover:translate-y-[5px] hover:translate-x-[5px] hover:shadow-none duration-100" href="https://discord.com/users/748539900793716887" target="_blank">
-          <font-awesome-icon icon="fa-brands fa-discord" />
+        <a class="flex items-center justify-center w-12 h-12 text-2xl bg-[var(--color-quinary)] shadow-solid rounded-xl border-4 border-black hover:translate-y-[5px] hover:translate-x-[5px] hover:shadow-none duration-100" href="https://instagram.com/dandisubhani_" target="_blank">
+          <font-awesome-icon icon="fa-brands fa-instagram" />
         </a>
-        <a class="flex items-center justify-center w-12 h-12 text-2xl bg-[var(--color-quaternary)] shadow-solid rounded-xl border-4 border-black hover:translate-y-[5px] hover:translate-x-[5px] hover:shadow-none duration-100" href="https://reddit.com/u/lareidev" target="_blank">
-          <font-awesome-icon icon="fa-brands fa-reddit" />
+        <a class="flex items-center justify-center w-12 h-12 text-2xl bg-[var(--color-quaternary)] shadow-solid rounded-xl border-4 border-black hover:translate-y-[5px] hover:translate-x-[5px] hover:shadow-none duration-100" href="https://facebook.com/ads.adandi20s" target="_blank">
+          <font-awesome-icon icon="fa-brands fa-facebook" />
         </a>
-        <a class="flex items-center justify-center w-12 h-12 text-2xl bg-[var(--color-senary)] shadow-solid rounded-xl border-4 border-black hover:translate-y-[5px] hover:translate-x-[5px] hover:shadow-none duration-100" href="https://open.spotify.com/user/800b0v2zx3p2n6apxfh2bwcfn" target="_blank">
-          <font-awesome-icon icon="fa-brands fa-spotify" />
+        <a class="flex items-center justify-center w-12 h-12 text-2xl bg-[var(--color-senary)] shadow-solid rounded-xl border-4 border-black hover:translate-y-[5px] hover:translate-x-[5px] hover:shadow-none duration-100" href="https://wa.me/6289636035164" target="_blank">
+          <font-awesome-icon icon="fa-brands fa-whatsapp" />
         </a>
       </div>
-      <a class="flex items-center justify-center h-12 px-2 font-bold bg-white shadow-solid rounded-xl border-4 border-black hover:translate-y-[5px] hover:translate-x-[5px] hover:shadow-none duration-100" href="https://github.com/lareii/lareii.github.io" target="_blank">
-      gimme a ⭐
+      <a class="flex items-center justify-center h-12 px-2 font-bold bg-white shadow-solid rounded-xl border-4 border-black hover:translate-y-[5px] hover:translate-x-[5px] hover:shadow-none duration-100" href="https://dandisubhani.one" target="_blank">
+      Click Me! ⭐
     </a>
     </div>
   </main>
